@@ -13,3 +13,8 @@ Web development
 	>p
 	>h1
 	>div
+
+	CSS Selectors
+	> by id
+	> by class
+	> by element name
