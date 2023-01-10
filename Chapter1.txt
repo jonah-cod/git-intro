@@ -4,3 +4,6 @@ Web development
 	 > HTML 
 	 > CSS
 	 > JavaScript
+		>React
+		>NodeJS
+		>Angular
